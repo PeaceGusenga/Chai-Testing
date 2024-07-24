@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# Quality Assurance with Chai
-
-This is the boilerplate for the Quality Assurance with Chai lessons. Instructions for completing these lessons start at https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-and-testing-with-chai/
-=======
 # Chai Testing Project
 
 This project demonstrates how to use the Chai assertion library for testing in JavaScript. Chai is a BDD/TDD assertion library that can be paired with any JavaScript testing framework.
@@ -49,5 +44,3 @@ To run the tests, use the following command:
 
 ```sh
 npm test
-
->>>>>>> ac4144fddf7eb6742f1f60e1df554bb1377c345d
