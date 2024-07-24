@@ -43,4 +43,4 @@ To set up the project and install dependencies, follow these steps:
 To run the tests, use the following command:
 
 ```sh
-npm test
+npm run start
