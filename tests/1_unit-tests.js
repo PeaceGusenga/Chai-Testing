@@ -75,8 +75,8 @@ suite('Unit Tests', function () {
     });
     // #10
     test('#approximately', function () {
-      assert.fail(weirdNumbers(0.5), 1, 0);
-      assert.fail(weirdNumbers(0.2), 1, 0);
+      assert.approximately(weirdNumbers(0.5), 1, 0.1);
+      assert.approximately(weirdNumbers(0.2), 1, 0.9);
     });
   });
 
